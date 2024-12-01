@@ -10,7 +10,7 @@ Consult the [data format specification](https://nlp-lab.org/ellipsis/data_format
 
 
 ## Maintainer
-- Muhammed S. Abdo
+- [Muhammed S. Abdo] (https://www.linkedin.com/in/muhsabrys/)
 - [Damir Cavar]
 
 
